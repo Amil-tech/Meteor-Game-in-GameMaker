@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"LINK_TO_TUTORIALS",
+  "name":"LINK_TO_TUTORIALS",
+  "parent":{
+    "name":"StartingGameMaker----Project1",
+    "path":"StartingGameMaker----Project1.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}
